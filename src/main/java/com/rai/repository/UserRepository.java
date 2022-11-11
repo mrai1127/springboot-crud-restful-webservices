@@ -9,3 +9,4 @@ import com.rai.entity.User;
 public interface UserRepository extends JpaRepository<User, Long> {
 
 }
+//commit
