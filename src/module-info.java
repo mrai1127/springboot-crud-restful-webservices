@@ -6,4 +6,5 @@
  *
  */
 module Learn {
+	requires java.desktop;
 }
